@@ -16,5 +16,5 @@ ENV BITNAMI_APP_NAME="kibana" \
 
 EXPOSE 5601
 
-#ENTRYPOINT ["/app-entrypoint.sh"]
+ENTRYPOINT ["/app-entrypoint.sh"]
 CMD ["nami","start","--foreground","kibana"]
