@@ -1,6 +1,6 @@
 # kibana-test
 
-This is a test for someone I can't say
+This is a test for someone I can't say but it helps show how to get around a security restriction 
 
 ## As Developer
 
